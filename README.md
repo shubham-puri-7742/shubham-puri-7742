@@ -40,6 +40,8 @@ I have worked mostly with Unreal Engine 4 in my courses. My skill level with var
 
 On the art side of things, I am very comfortable working in Photoshop and Illustrator. I am moderately comfortable modelling in 3DS Max and Blender. Most of my experience with either has focused on modelling using splines/bezier curves, and I have worked with models of a moderate complexity. I am familiar with common modifiers, including Boolean subtractions and intersections, as well as modifiers to generate radially and bilaterally symmetric models.
 
+From a coding ethics perspective, I follow what I call the 'Zeroth Commandment' and phrase as 'Thou shalt not code maliciously'. I take a broad definition of it to include both causing direct harm and facilitating harm indirectly. Although I have not wokred with code that may harm users or their systems if abused, I make it a point to create not only error-safe code, but also (to the extent it is possible for me to conceive) misuse-safe code, especially since one of my long-term learning goals includes learning about how things work low-level, where code could indeed cause such harm.
+
 # Career Path
 
 My first choice for a game development career is gameplay design. A close second choice is artificial intelligence programming. However, as neither role is an entry-level position, I consider gameplay programming a good way to start my career in game development. Outside of technical areas, I would also like to experiment with narrative design sometime, which I consider an essential component and intricately tied to the design of the gameplay, because the two combine to deliver an immersive experience in games.
